@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WorldGuessApplication/1.0.0": {
+        "runtime": {
+          "WorldGuessApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorldGuessApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

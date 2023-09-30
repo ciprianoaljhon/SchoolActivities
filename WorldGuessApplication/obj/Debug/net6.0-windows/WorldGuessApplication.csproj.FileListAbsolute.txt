@@ -1,0 +1,16 @@
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\bin\Debug\net6.0-windows\WorldGuessApplication.exe
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\bin\Debug\net6.0-windows\WorldGuessApplication.deps.json
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\bin\Debug\net6.0-windows\WorldGuessApplication.runtimeconfig.json
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\bin\Debug\net6.0-windows\WorldGuessApplication.dll
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\bin\Debug\net6.0-windows\WorldGuessApplication.pdb
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\obj\Debug\net6.0-windows\WorldGuessApplication.csproj.GenerateResource.cache
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\obj\Debug\net6.0-windows\WorldGuessApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\obj\Debug\net6.0-windows\WorldGuessApplication.AssemblyInfoInputs.cache
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\obj\Debug\net6.0-windows\WorldGuessApplication.AssemblyInfo.cs
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\obj\Debug\net6.0-windows\WorldGuessApplication.csproj.CoreCompileInputs.cache
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\obj\Debug\net6.0-windows\WorldGuessApplication.dll
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\obj\Debug\net6.0-windows\refint\WorldGuessApplication.dll
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\obj\Debug\net6.0-windows\WorldGuessApplication.pdb
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\obj\Debug\net6.0-windows\WorldGuessApplication.genruntimeconfig.cache
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\obj\Debug\net6.0-windows\ref\WorldGuessApplication.dll
+C:\Users\Aljhon07\source\repos\WorldGuessApplication\obj\Debug\net6.0-windows\WorldGuessApplication.Program.resources
